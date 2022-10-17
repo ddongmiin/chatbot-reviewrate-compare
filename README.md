@@ -7,9 +7,14 @@
 
   환경 구축에 참고하시면 될 것 같습니다. [링크](https://github.com/ddongmiin/etl-pipeline-with-gcp)
 
-# 발표자료
+- 결과물
+  ![result](./img/result.png)
 
-- 추가 예정입니다.
+# 발표자료 & 영상링크
+
+- 운이 좋게 데이터야놀자에서 발표를 진행하게 됐습니다.
+- [발표자료링크](https://www.slideshare.net/DONGMINCHO1/2pdf-253648036)
+- 영상링크(추후 추가 예정)
 
 # 폴더 트리
 
