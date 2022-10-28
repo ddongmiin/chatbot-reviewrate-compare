@@ -46,6 +46,7 @@ def _find_element_with_text(*, driver: WebDriver, by, value: str) -> Optional[st
 def _get_review_info(
     *, driver: WebDriver, by, value_rate: str, value_cnt: str
 ) -> Tuple[str, str]:
+
     primitive_review_rate = _find_element_with_text(
         driver=driver, by=by, value=value_rate
     )
