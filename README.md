@@ -13,7 +13,7 @@
 # 발표자료 & 영상링크
 
 - 운이 좋게 데이터야놀자에서 발표를 진행하게 됐습니다.
-- [발표자료링크](https://present.do/documents/637a2ac83e3ad95cc83113c9?page=0)
+- [발표자료링크](https://drive.google.com/file/d/1wmQN1vSvriUy5FB6fuDTuFiDaIshBTWG/view?usp=sharing)
 - [발표영상링크](https://www.youtube.com/watch?v=9gaS0eJ-nJs)
 
 # 폴더 트리
